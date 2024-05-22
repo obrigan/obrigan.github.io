@@ -197,13 +197,13 @@ const CONFIG = new Config({
             },
             {
               name: "mmo-dev",
-              url: "https://mmo-dev.info/threads/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.22785/unread",
+              url: "https://mmo-dev.info",
               icon: "ti ti-brand-producthunt",
               icon_color: "#a9b665",
             },
             {
               name: "mmo-dev",
-              url: "https://mmo-dev.info/threads/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.22785/unread",
+              url: "https://mmo-dev.info/",
               icon: "ti ti-brand-producthunt",
               icon_color: "#a9b665",
             },
@@ -215,7 +215,7 @@ const CONFIG = new Config({
             },
             {
               name: "mmo-dev",
-              url: "https://mmo-dev.info/threads/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.22785/unread",
+              url: "https://mmo-dev.info/",
               icon: "ti ti-brand-producthunt",
               icon_color: "#a9b665",
             },
